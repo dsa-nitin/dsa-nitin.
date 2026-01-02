@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nitin's DSA Hub</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; margin: 0; padding: 20px; }
+        .header { text-align: center; padding: 30px; background: #2c3e50; color: white; border-radius: 10px; margin-bottom: 20px; }
+        .logo { font-size: 50px; font-weight: bold; border: 4px solid white; display: inline-block; padding: 10px 20px; border-radius: 50%; margin-bottom: 10px; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        ol { padding-left: 20px; }
+        li { padding: 8px 0; border-bottom: 1px solid #eee; font-size: 17px; }
+        li:last-child { border-bottom: none; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">NK</div>
+        <h1>NITIN KUMAWAT</h1>
+        <p>39 Most Important DSA Questions</p>
+    </div>
+    <div class="container">
+        <h2>Arrays & Hashing</h2>
+        <ol>
+            <li>Two Sum</li><li>Best Time to Buy and Sell Stock</li><li>Contains Duplicate</li><li>Product of Array Except Self</li><li>Maximum Subarray</li><li>Maximum Product Subarray</li><li>Find Minimum in Rotated Sorted Array</li><li>Search in Rotated Sorted Array</li><li>3Sum</li><li>Container With Most Water</li>
+        </ol>
+        <h2>Linked Lists & Strings</h2>
+        <ol start="11">
+            <li>Reverse a Linked List</li><li>Detect Cycle in a Linked List</li><li>Merge Two Sorted Lists</li><li>Merge K Sorted Lists</li><li>Remove Nth Node From End</li><li>Valid Anagram</li><li>Valid Palindrome</li><li>Longest Palindromic Substring</li><li>String to Integer (atoi)</li>
+        </ol>
+        <h2>Trees & Graphs</h2>
+        <ol start="20">
+            <li>Maximum Depth of Binary Tree</li><li>Invert Binary Tree</li><li>Same Tree</li><li>Binary Tree Level Order Traversal</li><li>Validate Binary Search Tree</li><li>Lowest Common Ancestor of a BST</li><li>Number of Islands</li><li>Course Schedule</li><li>Clone Graph</li><li>Pacific Atlantic Water Flow</li>
+        </ol>
+        <h2>Dynamic Programming & Bits</h2>
+        <ol start="30">
+            <li>Climbing Stairs</li><li>Coin Change</li><li>Longest Increasing Subsequence</li><li>Longest Common Subsequence</li><li>Word Break Problem</li><li>House Robber</li><li>Unique Paths</li><li>Missing Number</li><li>Sum of Two Integers</li><li>Number of 1 Bits</li>
+        </ol>
+    </div>
+</body>
+</html>
